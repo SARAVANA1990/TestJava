@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T10:33:35.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Yx_ZYEEBhfVvIPYT6fqw" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T10:42:15.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="wsa8AbjU-6MfJjUSu5kC" version="13.5.9" type="github">
   <diagram id="duzB47Je8lDqxq_LkMD5" name="Page-1">
     <mxGraphModel dx="1031" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry x="264.5" y="850" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSg7VoGUR8RJTwEOMfWe-64" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;Bill/Rebill&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="319.5" y="960" width="80" height="80" as="geometry" />
+          <mxGeometry x="319.5" y="960" width="80.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zSg7VoGUR8RJTwEOMfWe-65" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;font-style: italic&quot;&gt;End&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319.5" y="1060" width="80" height="80" as="geometry" />
@@ -116,6 +116,18 @@
         </mxCell>
         <mxCell id="5bm-MmD4y-qV84A5UPUL-2" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;font-style: italic&quot;&gt;Change&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316.51" y="1920" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5bm-MmD4y-qV84A5UPUL-21" value="«interface»&lt;br&gt;&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CheckoutAdapter&lt;/span&gt;&lt;/pre&gt;" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="975" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5bm-MmD4y-qV84A5UPUL-22" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;GenericCheckoutAdapter&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="970" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5bm-MmD4y-qV84A5UPUL-23" value="«interface»&lt;br&gt;&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CheckoutAdapter&lt;/span&gt;&lt;/pre&gt;" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="985" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5bm-MmD4y-qV84A5UPUL-25" value="«interface»&lt;br&gt;&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;CheckoutAdapter&lt;/span&gt;&lt;/pre&gt;" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="985" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
